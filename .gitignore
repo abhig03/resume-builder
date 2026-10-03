@@ -1,0 +1,3 @@
+# Gitignore entry to protect local credentials
+.streamlit/secrets.toml
+.env
