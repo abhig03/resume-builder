@@ -10,7 +10,7 @@ It features a custom LaTeX generation engine calibrated to produce the classic c
 
 🚀 **The project is officially hosted and live!** You can use the web interface directly without any local installation here:
 
-👉 [Deploy to Streamlit]()
+👉 [Deploy to Streamlit](https://resume-builder-g2.streamlit.app/)
 
 ---
 
