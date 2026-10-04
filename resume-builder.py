@@ -120,16 +120,16 @@ resume_format = st.radio("Choose your output engine format:", ("Standard Markdow
 candidate_data_dump = f"Name: {name}\nContact: {contact}\nRaw Skills: {skills}\nRaw Experience: {experience}\nRaw Education: {education}"
 
 # Start Params for local generation
-import json
+# import json
 
-with open("./test-params.json", "r", encoding="utf-8") as f:
-    data = json.load(f)
+# with open("./test-params.json", "r", encoding="utf-8") as f:
+#     data = json.load(f)
 
-name = data["name"]
-contact = data["contact"]
-skills = data["skills"]
-experience = data["experience"]
-education = data["education"]
+# name = data["name"]
+# contact = data["contact"]
+# skills = data["skills"]
+# experience = data["experience"]
+# education = data["education"]
 
 # End Params for local generation
 
